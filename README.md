@@ -2,7 +2,7 @@
 
 **Author: Tanay Deo**
 
-**[Open the live demo](https://fullstack-api-dashboard-demo.pages.dev/)** · **[GitHub repository](https://github.com/ScorpionD/fullstack-api-dashboard-demo)** · [API reference](docs/api.md) · [Debugging casebook](docs/debugging.md)
+**[Open the live demo](https://fullstack-api-dashboard-demo.pages.dev/)** · [API reference](docs/api.md) · [Debugging casebook](docs/debugging.md)
 
 A full-stack operations dashboard for service businesses and sales teams. Manage customers and orders, inspect completed revenue, follow an audit trail and see how a real external API integration handles failure.
 
